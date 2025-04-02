@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tuti-b
-- 👀 I’m interested in ... Automation tools
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m @mozu10982
+- 👀 I’m interested in ... Automation, tools
+- 🌱 I’m currently learning ... Python, CSS, Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
